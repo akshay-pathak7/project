@@ -1,0 +1,507 @@
+country,continent,numeric_code,indicator,year,sex,obs_value,unit_multiplier,unit_of_measure,observation_status,observation_confidentaility,time_period_activity_related_to_when_the_data_are_collected,current_age
+Afghanistan,Asia,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Female,4.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,Asia,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Female,6.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,Asia,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,23,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,Asia,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Male,4.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,Asia,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Male,7.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,Asia,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,19.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,Asia,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Total,4.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,Asia,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Total,7.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Afghanistan,Asia,4,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,21.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,Europe,8,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Female,49,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,Europe,8,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,10.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,Europe,8,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Male,59.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,Europe,8,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,5.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,Europe,8,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Total,55.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Albania,Europe,8,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,7.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Armenia,Europe,51,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,28,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Armenia,Europe,51,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,40.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Armenia,Europe,51,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,34.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Armenia,Europe,51,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,Asia,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2007,Female,18.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,Asia,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,39.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,Asia,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,34.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,Asia,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2007,Male,17.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,Asia,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,45.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,Asia,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,35.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,Asia,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2007,Total,18.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,Asia,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,43,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bangladesh,Asia,50,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,35,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Belarus,Europe,112,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,6.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Belarus,Europe,112,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,4.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Belarus,Europe,112,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,5.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Belize,North America,84,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Female,3.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Belize,North America,84,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Male,5.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Belize,North America,84,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,4.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,Africa,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2006,Female,9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,Africa,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Female,9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,Africa,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,13.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,Africa,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,10.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,Africa,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2006,Male,8.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,Africa,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Male,8.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,Africa,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,17.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,Africa,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,10.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,Africa,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2006,Total,8.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,Africa,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Total,8.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,Africa,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,15.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Benin,Africa,204,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,10.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bhutan,Asia,64,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,0.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bhutan,Asia,64,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,0.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bhutan,Asia,64,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,0.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bolivia,South America,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Female,2.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bolivia,South America,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Female,61.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bolivia,South America,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Male,3.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bolivia,South America,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Male,59.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bolivia,South America,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Total,3.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Bolivia,South America,68,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Total,60.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,Africa,854,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,Africa,854,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Female,16.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,Africa,854,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,Africa,854,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Male,15.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,Africa,854,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,Africa,854,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Total,0.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burkina Faso,Africa,854,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Total,15.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burundi,Africa,108,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burundi,Africa,108,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Female,5.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burundi,Africa,108,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burundi,Africa,108,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Male,6.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burundi,Africa,108,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Burundi,Africa,108,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Total,6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,Asia,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Female,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,Asia,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,2.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,Asia,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2022,Female,10.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,Asia,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Male,1.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,Asia,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,3.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,Asia,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2022,Male,8.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,Asia,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Total,0.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,Asia,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,3.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cambodia,Asia,116,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2022,Total,9.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,Africa,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Female,0,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,Africa,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,Africa,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,7.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,Africa,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Male,0,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,Africa,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,8.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,Africa,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,Africa,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Total,0,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,Africa,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,8.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cameroon,Africa,120,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,7.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cape Verde,Africa,132,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,6.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cape Verde,Africa,132,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,9.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cape Verde,Africa,132,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,8.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,Africa,140,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,Africa,140,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,9.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,Africa,140,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,Africa,140,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,6.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,Africa,140,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Central African Republic,Africa,140,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,7.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,Africa,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,Africa,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Female,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,Africa,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,9.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,Africa,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,Africa,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Male,0.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,Africa,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,11.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,Africa,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,Africa,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Total,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Chad,Africa,148,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,10.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Comoros,Africa,174,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Female,0.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Comoros,Africa,174,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Total,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,Africa,178,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Total,7.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,Africa,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,1.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,Africa,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,1.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,Africa,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,11.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,Africa,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,1.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,Africa,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,1.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,Africa,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,9.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,Africa,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,1.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,Africa,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,1.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Congo,Africa,180,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,10.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Costa Rica,North America,188,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,4.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Costa Rica,North America,188,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,3.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Costa Rica,North America,188,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,3.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,North America,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,4.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,North America,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,7.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,North America,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,20.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,North America,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,8.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,North America,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,15.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Cuba,North America,192,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,8.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,Africa,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2005,Female,0.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,Africa,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Female,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,Africa,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,Africa,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2005,Male,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,Africa,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Male,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,Africa,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,0.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,Africa,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2005,Total,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,Africa,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Total,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Egypt,Africa,818,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+El Salvador,North America,222,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,22.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+El Salvador,North America,222,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Female,28.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+El Salvador,North America,222,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,27.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+El Salvador,North America,222,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Male,30.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+El Salvador,North America,222,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,25.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+El Salvador,North America,222,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Total,29.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,Africa,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2005,Female,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,Africa,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Female,0,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,Africa,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Female,15.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,Africa,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2005,Male,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,Africa,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Male,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,Africa,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Male,17.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,Africa,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2005,Total,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,Africa,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Total,0,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ethiopia,Africa,231,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,16.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Fiji,Oceania,242,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Female,18.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Fiji,Oceania,242,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Male,16.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Fiji,Oceania,242,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Total,17.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,Africa,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,13.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,Africa,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Female,22.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,Africa,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,15.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,Africa,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Male,20.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,Africa,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,14.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Gambia,Africa,270,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Total,21.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Georgia,Europe,268,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Georgia,Europe,268,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,7.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Georgia,Europe,268,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,5.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,Africa,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Female,0.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,Africa,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Female,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,Africa,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,6.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,Africa,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,29,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,Africa,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Male,1.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,Africa,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,4.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,Africa,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,25.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,Africa,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Total,0.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,Africa,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Total,0,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,Africa,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,5.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ghana,Africa,288,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,27.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guatemala,North America,320,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Female,0.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guatemala,North America,320,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Male,1.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guatemala,North America,320,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Total,1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,Africa,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Female,14.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,Africa,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,22.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,Africa,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Male,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,Africa,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Male,17.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,Africa,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,21.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,Africa,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Total,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,Africa,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,16.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea,Africa,324,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,21.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea-Bissau,Africa,624,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,23.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea-Bissau,Africa,624,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,20.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea-Bissau,Africa,624,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,16.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guinea-Bissau,Africa,624,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,21.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guyana,South America,328,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Female,1.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guyana,South America,328,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Male,1.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Guyana,South America,328,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Total,1.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,North America,332,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Female,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,North America,332,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Female,4.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,North America,332,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Male,5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,North America,332,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Total,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Haiti,North America,332,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Total,4.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,North America,340,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Female,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,North America,340,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,20,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,North America,340,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Male,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,North America,340,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,19.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,North America,340,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Total,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Honduras,North America,340,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,19.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,Asia,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2006,Female,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,Asia,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,12.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,Asia,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Female,14.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,Asia,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Female,22.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,Asia,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2006,Male,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,Asia,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,12.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,Asia,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Male,15,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,Asia,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Male,24.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,Asia,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2006,Total,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,Asia,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,12.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,Asia,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,14.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+India,Asia,356,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Total,23.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Indonesia,Asia,360,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Female,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Indonesia,Asia,360,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Female,18.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Indonesia,Asia,360,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Male,0.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Indonesia,Asia,360,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Male,17.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Indonesia,Asia,360,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Total,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Indonesia,Asia,360,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Total,17.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,Asia,368,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Female,0.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,Asia,368,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,3.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,Asia,368,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Male,1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,Asia,368,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,6.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,Asia,368,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Total,0.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Iraq,Asia,368,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,5.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,Africa,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Female,4.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,Africa,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Female,9.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,Africa,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Male,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,Africa,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Male,6.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,Africa,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Male,11.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,Africa,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Total,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,Africa,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,5.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Ivory Coast,Africa,384,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Total,10.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kenya,Africa,404,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,6.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kenya,Africa,404,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Male,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kenya,Africa,404,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,7.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kenya,Africa,404,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Total,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kenya,Africa,404,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,7.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kiribati,Oceania,296,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,10.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kiribati,Oceania,296,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,10.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kiribati,Oceania,296,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,10.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,Asia,417,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,6.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,Asia,417,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,9.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,Asia,417,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,10.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,Asia,417,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,8.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,Asia,417,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,8.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Kyrgyzstan,Asia,417,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,9.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Laos,Asia,418,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Female,0.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Laos,Asia,418,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Female,13.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Laos,Asia,418,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Male,1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Laos,Asia,418,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Male,12,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Laos,Asia,418,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Total,0.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Laos,Asia,418,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Total,12.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lesotho,Africa,426,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,18,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lesotho,Africa,426,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,12.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Lesotho,Africa,426,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,15,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,Africa,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2007,Female,0.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,Africa,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Female,1.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,Africa,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Female,16.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,Africa,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2007,Male,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,Africa,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Male,3.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,Africa,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Male,18.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,Africa,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2007,Total,0.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,Africa,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Total,2.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Liberia,Africa,430,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Total,17.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,Africa,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,6.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,Africa,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Female,4.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,Africa,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Male,1.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,Africa,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,Africa,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Male,7.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,Africa,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Total,1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,Africa,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,6.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Madagascar,Africa,450,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Total,6.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,Africa,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,Africa,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,23.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,Africa,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Female,25.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,Africa,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Female,21.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,Africa,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,Africa,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,22.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,Africa,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Male,23.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,Africa,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Male,22.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,Africa,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,Africa,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,23,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,Africa,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,24.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Malawi,Africa,454,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Total,22,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Maldives,Asia,462,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Male,0.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Maldives,Asia,462,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Total,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Maldives,Asia,462,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Total,41.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,Africa,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Female,2.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,Africa,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,9.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,Africa,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Male,0.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,Africa,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,8.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,Africa,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Total,1.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,Africa,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Total,2.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mali,Africa,466,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,8.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,Africa,478,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Female,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,Africa,478,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Female,6.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,Africa,478,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Male,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,Africa,478,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Male,7.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,Africa,478,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Total,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,Africa,478,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Total,16,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mauritania,Africa,478,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Total,7.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mexico,North America,484,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Female,10,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mexico,North America,484,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Male,7.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mexico,North America,484,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Total,8.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,Asia,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,5.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,Asia,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,16.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,Asia,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,8.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,Asia,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,9.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,Asia,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,7.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Mongolia,Asia,496,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,13.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Namibia,Africa,516,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Male,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Namibia,Africa,516,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Total,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,Asia,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Female,3.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,Asia,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,18,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,Asia,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Female,7.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,Asia,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,31.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,Asia,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Male,6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,Asia,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,18.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,Asia,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Male,12.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,Asia,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,27.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,Asia,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Total,4.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,Asia,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,18.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,Asia,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,10.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nepal,Asia,524,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,28.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Niger,Africa,562,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Female,7.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Niger,Africa,562,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Male,8.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Niger,Africa,562,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Total,8.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Niger,Africa,562,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Total,13.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Niger,Africa,562,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Total,20.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Female,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Female,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Female,1.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Female,17.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,24.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Female,25.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Male,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Male,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Male,1.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Male,19.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,21,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Male,25.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Total,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Total,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Total,1.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Total,18.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,22.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Nigeria,Africa,566,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Total,25.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+North Korea,Asia,408,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Female,50,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+North Korea,Asia,408,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Male,40.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+North Korea,Asia,408,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Total,45,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,Asia,586,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Female,1.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,Asia,586,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,Asia,586,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Male,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,Asia,586,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,8.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,Asia,586,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Total,0.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Pakistan,Asia,586,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Papua New Guinea,Oceania,598,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,4.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Papua New Guinea,Oceania,598,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,5.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Papua New Guinea,Oceania,598,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Paraguay,South America,600,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Female,3.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Paraguay,South America,600,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Male,3.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Paraguay,South America,600,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,3.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,South America,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Female,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,South America,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Female,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,South America,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Male,0.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,South America,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Male,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,South America,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Male,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,South America,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2009,Total,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,South America,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Total,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Peru,South America,604,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2012,Total,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,Asia,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Female,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,Asia,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Female,3.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,Asia,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Female,13.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,Asia,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Male,1.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,Asia,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Male,5.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,Asia,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Male,20.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,Asia,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Total,1.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,Asia,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Total,4.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Philippines,Asia,608,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Total,17.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,Africa,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Female,6.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,Africa,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Female,19,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,Africa,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Male,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,Africa,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Male,7.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,Africa,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Male,18.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,Africa,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Total,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,Africa,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Total,7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Rwanda,Africa,646,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Total,18.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Samoa,Oceania,882,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Female,25.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Samoa,Oceania,882,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Male,27.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Samoa,Oceania,882,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Total,26.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sao Tome and Principe,Africa,678,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,23.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sao Tome and Principe,Africa,678,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,21.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sao Tome and Principe,Africa,678,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,22.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Female,0,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Female,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,0.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Female,5.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Female,18.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,19.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,16.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Male,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Male,0.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,0.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Male,8.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Male,17.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,19.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,21.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Total,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Total,0.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,0.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Total,7.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Total,18,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,19.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Senegal,Africa,686,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,19,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Female,2.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,1.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Female,3.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Female,41.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,51,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Male,1.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,0.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Male,3.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Male,44.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,55.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2008,Total,2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,0.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Total,3.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Total,42.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sierra Leone,Africa,694,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,53.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+South Africa,Africa,710,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Female,24.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+South Africa,Africa,710,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Male,30.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+South Africa,Africa,710,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,27.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+South Sudan,Africa,728,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,1.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+South Sudan,Africa,728,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+South Sudan,Africa,728,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,1.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+South Sudan,Africa,728,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Total,38.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,Africa,736,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,0,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,Africa,736,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,29,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,Africa,736,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,Africa,736,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,28.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,Africa,736,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Sudan,Africa,736,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,28.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Swaziland,Africa,748,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,42.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tajikistan,Asia,762,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Female,15.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tajikistan,Asia,762,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Male,13.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tajikistan,Asia,762,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Total,14.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tanzania,Africa,834,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tanzania,Africa,834,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Female,13,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tanzania,Africa,834,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,1.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tanzania,Africa,834,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Male,13.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tanzania,Africa,834,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,2.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tanzania,Africa,834,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,13.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,Asia,626,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,4.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,Asia,626,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Female,41.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,Asia,626,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,3.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,Asia,626,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Male,39.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,Asia,626,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,4.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Timor-Leste,Asia,626,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,40.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,Africa,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Female,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,Africa,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,Africa,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Female,5.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,Africa,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Male,0.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,Africa,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,Africa,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Male,5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,Africa,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2010,Total,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,Africa,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,0.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Togo,Africa,768,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2017,Total,5.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tunisia,Africa,788,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Female,1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tunisia,Africa,788,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Male,2.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tunisia,Africa,788,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2018,Total,1.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Turkmenistan,Asia,795,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,6.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tuvalu,Oceania,798,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Female,8.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tuvalu,Oceania,798,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Male,2.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Tuvalu,Oceania,798,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2020,Total,4.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,Africa,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2006,Female,0.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,Africa,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Female,1.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,Africa,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Female,28,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,Africa,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2006,Male,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,Africa,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Male,1.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,Africa,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Male,31,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,Africa,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2006,Total,0.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,Africa,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2011,Total,1.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uganda,Africa,800,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2016,Total,29.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uzbekistan,Asia,860,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2022,Female,12.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uzbekistan,Asia,860,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2022,Male,12.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Uzbekistan,Asia,860,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2022,Total,12.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Vietnam,Asia,704,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,10.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Vietnam,Asia,704,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,13.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Vietnam,Asia,704,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,12.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Vietnam,Asia,704,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2021,Total,21.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Yemen,Asia,887,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Female,0.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Yemen,Asia,887,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Male,0.2,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Yemen,Asia,887,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2013,Total,0.3,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zambia,Africa,894,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,32.4,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zambia,Africa,894,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,34.6,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zambia,Africa,894,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,33.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,Africa,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Female,13.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,Africa,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Female,13.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,Africa,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Female,22.9,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,Africa,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Male,13.7,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,Africa,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Male,16.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,Africa,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Male,22.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,Africa,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2014,Total,13.8,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,Africa,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2015,Total,15.1,Units,%,Reported,Free,End of fieldwork,Under 5 years old
+Zimbabwe,Africa,716,Diarrhoea treatment - percentage of children (under age 5) with diarrhoea who received ORS and zinc,2019,Total,22.5,Units,%,Reported,Free,End of fieldwork,Under 5 years old
